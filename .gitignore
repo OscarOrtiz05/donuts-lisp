@@ -1,0 +1,12 @@
+# Racket compiled files
+compiled/
+*.zo
+*.dep
+
+# Backup files
+*.rkt~
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
