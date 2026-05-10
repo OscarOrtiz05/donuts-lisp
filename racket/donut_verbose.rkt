@@ -2,10 +2,10 @@
 
 (require racket/math)
 
-(define width 200)
-(define height 144)
+(define width 80)
+(define height 24)
 
-(define chars "............")
+(define chars ".,-~:;=!*#$@")
 
 (define (render-frame A B)
   (define output (make-vector (* width height) #\space))
