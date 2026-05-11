@@ -7,6 +7,10 @@ compiled/
 *.rkt~
 *~
 
+# Clojure Calva
+.clj-kondo/
+.lsp/
+
 # OS junk
 .DS_Store
 Thumbs.db
