@@ -92,4 +92,4 @@
     (sleep 0.03)
     (loop (+ A 0.04) (+ B 0.02))))
 
-(render-frame 0.0 0.0)
+(animate)
